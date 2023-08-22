@@ -53,3 +53,17 @@ short_name → id of invite (discord.gg/{insert this id}
 ### Source
 
 As Parapluie (one of the administrators and co-founder of **Discord.io**) [said](https://discord.com/channels/232335047170981890/1140683689471266958/1140685457336848384), it's public server invites list
+
+### servers_list.json (≈11.3 MB)
+
+## Structure
+
+```json
+{
+    "key": "id of invite (discord.gg/{insert this id}"
+}
+```
+
+### Source
+
+Tried to organize servers_list.txt to machine-readable .json
